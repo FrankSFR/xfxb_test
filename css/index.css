@@ -71,7 +71,7 @@ header .link >a{
 /*************banner*****************/
 .banner{
 	height: 662px;
-	background: red;
+	/* background: red; */
 }
 
 .banner a img{
